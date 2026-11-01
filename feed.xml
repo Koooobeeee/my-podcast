@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>用户自用收藏音频播客</title>
+    <link>https://koooobeeee.github.io/my-podcast</link>
+    <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 02 Nov 2026 06:25:45 +0800</lastBuildDate>
+    <itunes:author>Xuancaor</itunes:author>
+    <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>醒世恒言：社保是不是庞氏骗局？</title>
+      <guid isPermaLink="false">7kb2lVnyDr4</guid>
+      <pubDate>Fri, 30 Oct 2026 17:30:07 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=7kb2lVnyDr4</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=7kb2lVnyDr4
+授权范围：用户自用。
+
+成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/7kb2lVnyDr4.mp3" length="62126732" type="audio/mpeg"/>
+      <itunes:duration>00:46:50</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>老梁：聪明的女人容易在感情上糊涂</title>
+      <guid isPermaLink="false">snoVstSWSPU</guid>
+      <pubDate>Tue, 27 Oct 2026 13:33:14 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=snoVstSWSPU</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=snoVstSWSPU
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/snoVstSWSPU.mp3" length="2591516" type="audio/mpeg"/>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
