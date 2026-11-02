@@ -6,7 +6,7 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Nov 2026 08:10:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:25:18 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -28,6 +28,21 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>会员直播：近期集中答疑</title>
+      <guid isPermaLink="false">lraYxfEUJkw</guid>
+      <pubDate>Sat, 31 Oct 2026 20:59:59 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=lraYxfEUJkw</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=lraYxfEUJkw
+授权范围：用户自用。
+
+10月31日（本周六），晚上21点（北京时间），会员直播：近期集中答疑。欢迎收看！</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/lraYxfEUJkw.mp3" length="130784588" type="audio/mpeg"/>
+      <itunes:duration>01:50:05</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>【五中全会，又侠下了，升民升了】首次“非对称”中央全会；张升民“入局”，时隔32年增选政治局委员；胡春华复出露面；“三非”正部级集体亮相，莫高义成唯一“三非”书记；人民银行副行长朱鹤新出局</title>
       <guid isPermaLink="false">wfTfDszfHy4</guid>
       <pubDate>Fri, 30 Oct 2026 23:53:34 +0800</pubDate>
@@ -37,6 +52,28 @@
       <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/wfTfDszfHy4.mp3" length="42188156" type="audio/mpeg"/>
       <itunes:duration>00:28:36</itunes:duration>
       <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>刘延东和江泽民曾庆红的渊源；太子党的两个派别；刘延东和李源潮刘鹤家族的渊源；荒淫无度的高官女婿们；刘延东和清华帮以及习近平的渊源；刘延东和她老公的关系；她为什么没有成为政治局常委；如何评价她的政绩？</title>
+      <guid isPermaLink="false">sd4nV8C_-vI</guid>
+      <pubDate>Fri, 30 Oct 2026 20:55:44 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=sd4nV8C_-vI</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=sd4nV8C_-vI
+授权范围：用户自用。
+
+以下是跟鲁社长频道相关的各种链接：
+1.本频道会员的福利、加入会员和支付方式的指导视频：https://youtu.be/0RYVur7ohnw
+2.加入电报群的办法：请在加入会员七天后，联系telegram上添加会员验证机器人：@ZJPLVerifyBot，并按照提示操作。如果多次联系不上，请联系小助手电报@zrzjpls
+3.加入本频道会员链接：youtube.com/@zrzjpl/join
+4.身在中国大陆没有海外支付方式的朋友，可订阅Patreon,享受跟油管会员一样的权利，具体链接：  https://www.patreon.com/zrzjpl
+5.投稿信箱（咨询勿扰）：zrzjpl@gmail.com
+6.推特（x平台）：政经鲁社长 @xzzzjpl
+7.代充小助手电报：@dcxzs</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/sd4nV8C_-vI.mp3" length="118772684" type="audio/mpeg"/>
+      <itunes:duration>01:33:10</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
