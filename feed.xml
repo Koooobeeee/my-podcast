@@ -6,12 +6,40 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:52:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:10:45 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>公开直播：五中全会大点评--习近平的“百年孤独”</title>
+      <guid isPermaLink="false">ybceN37NaLs</guid>
+      <pubDate>Sun, 01 Nov 2026 20:59:35 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=ybceN37NaLs</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=ybceN37NaLs
+授权范围：用户自用。
+
+11月1日（本周日），晚上21点(北京时间），公开直播：五中全会大点评-习近平的”百年孤独“。欢迎朋友们收看！</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/ybceN37NaLs.mp3" length="160921052" type="audio/mpeg"/>
+      <itunes:duration>02:11:30</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【五中全会，又侠下了，升民升了】首次“非对称”中央全会；张升民“入局”，时隔32年增选政治局委员；胡春华复出露面；“三非”正部级集体亮相，莫高义成唯一“三非”书记；人民银行副行长朱鹤新出局</title>
+      <guid isPermaLink="false">wfTfDszfHy4</guid>
+      <pubDate>Fri, 30 Oct 2026 23:53:34 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=wfTfDszfHy4</link>
+      <description>完整原声（未摘要、未剪辑）。来源：中規中矩 https://www.youtube.com/watch?v=wfTfDszfHy4
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/wfTfDszfHy4.mp3" length="42188156" type="audio/mpeg"/>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>醒世恒言：社保是不是庞氏骗局？</title>
       <guid isPermaLink="false">7kb2lVnyDr4</guid>
