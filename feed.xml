@@ -6,12 +6,25 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:07:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:03:40 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>【穿西装的张又侠】军委副主席热门人选浮出水面；空军将领锁定中央军委席位；“候补上将”集体亮相；张升民老部下升迁，军队“纪委帮”做大；陆军“老大哥”变“老大难”</title>
+      <guid isPermaLink="false">Q6sRWaMXXtk</guid>
+      <pubDate>Tue, 03 Nov 2026 11:56:03 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=Q6sRWaMXXtk</link>
+      <description>完整原声（未摘要、未剪辑）。来源：中規中矩 https://www.youtube.com/watch?v=Q6sRWaMXXtk
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/Q6sRWaMXXtk.mp3" length="57451628" type="audio/mpeg"/>
+      <itunes:duration>00:41:26</itunes:duration>
+      <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>老梁故事汇 特工聂隐娘</title>
       <guid isPermaLink="false">HtKJYYHSOmA</guid>
