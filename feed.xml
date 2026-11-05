@@ -6,12 +6,27 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Nov 2026 08:21:02 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:02:43 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>老梁：昆仑奴摩勒</title>
+      <guid isPermaLink="false">MvrQ-uxVBS8</guid>
+      <pubDate>Thu, 05 Nov 2026 10:33:21 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=MvrQ-uxVBS8</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=MvrQ-uxVBS8
+授权范围：用户自用。
+
+成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/MvrQ-uxVBS8.mp3" length="45574364" type="audio/mpeg"/>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>【穿西装的张又侠】军委副主席热门人选浮出水面；空军将领锁定中央军委席位；“候补上将”集体亮相；张升民老部下升迁，军队“纪委帮”做大；陆军“老大哥”变“老大难”</title>
       <guid isPermaLink="false">Q6sRWaMXXtk</guid>
