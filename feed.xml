@@ -6,12 +6,29 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:10:04 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:09:00 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>老梁：色字头上一把刀</title>
+      <guid isPermaLink="false">vdBZfeDYfgE</guid>
+      <pubDate>Thu, 05 Nov 2026 18:07:57 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=vdBZfeDYfgE</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=vdBZfeDYfgE
+授权范围：用户自用。
+
+老梁借《翠屏山》剖解《水浒》的“好色观”：潘巧云罪不至死，实被石秀以“兄弟义气”之名献祭，暴露男权对女性的残酷规训。
+施蛰存更以精神分析戳破“好汉”神话——石秀的残忍源于性压抑与嫉妒。梁山集体“不近女色”，并非天性高尚，而是造反风险高、怕有软肋，更被宋江刻意洗脑：禁欲既能凝聚团伙，更为“打天下后尽享荣华”铺路。
+所谓英雄戒色，终是权力算计与人性伪饰。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/vdBZfeDYfgE.mp3" length="58518236" type="audio/mpeg"/>
+      <itunes:duration>00:45:15</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>老梁：昆仑奴摩勒</title>
       <guid isPermaLink="false">MvrQ-uxVBS8</guid>
