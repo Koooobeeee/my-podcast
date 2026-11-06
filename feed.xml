@@ -6,7 +6,7 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:02:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:10:04 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -24,6 +24,52 @@
       <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/MvrQ-uxVBS8.mp3" length="45574364" type="audio/mpeg"/>
       <itunes:duration>00:32:39</itunes:duration>
       <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中国养老金体系面临什么危局？养老保险的三个不公是什么？养老金真的会破产吗？年轻人要不要继续交社保？中国政府采取什么应对方法？造成养老金危局的原因是什么？体制内与体制外的退休金差距到底有多大？</title>
+      <guid isPermaLink="false">TLt6dW8O7vA</guid>
+      <pubDate>Wed, 04 Nov 2026 14:21:05 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=TLt6dW8O7vA</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=TLt6dW8O7vA
+授权范围：用户自用。
+
+----------------------------------------------------------------
+以下是跟鲁社长频道相关的各种链接：
+
+1.本频道会员的福利、加入会员和支付方式的指导视频：https://youtu.be/0RYVur7ohnw
+2.加入电报群的办法：请在加入会员七天后，联系telegram上添加会员验证机器人：@ZJPLVerifyBot，并按照提示操作。如果多次联系不上，请联系小助手电报@zrzjpls
+3.加入本频道会员链接：youtube.com/@zrzjpl/join
+4.身在中国大陆没有海外支付方式的朋友，可订阅Patreon,享受跟油管会员一样的权利，具体链接：  https://www.patreon.com/zrzjpl
+5.付费提问平台：https://www.patreon.com/zrzjpl--商品栏
+6.投稿信箱（咨询勿扰）：zrzjpl@gmail.com
+7.推特（x平台）：政经鲁社长 @xzzzjpl
+8.代充小助手电报：@dcxzs
+-----------------------------------------------------------------
+
+
+最近，人社部副部长李忠出名了。他在国新办新闻发布会的讲话，透露了人社部未来的工作重点：下一步，会通过政策优化、数据找人等措施，把没有参保的人找到，实现应保尽保。具体而言，政府会把重点放在灵活就业这些人身上，动员他们从城乡居民保险，切换到职工养老保险。
+
+过去的几年里，中国政府在养老保险方面的改革可谓是层出不穷，这包括延迟退休年龄、提高最低缴费基数和缴费年限、个人养老金制度等等。
+如果我们把这前后的新闻连起来一起看，也许就能看清楚人社部一系列政策的初衷：原来不是政府在心疼没交保险的老百姓，而是在担忧即将耗尽的社保池。
+
+那么，中国的养老金会不会崩盘？年轻人到底要不要交养老金？
+今天，我们就用一个视频聊透这个话题。
+
+02:26 第一个不公：双轨制带来的不公
+08:21 第二个不公：现收现付制
+11:02 第三个不公：视同缴费的历史黑洞
+13:35 养老金危局的原因
+16:11 中国政府的应对方法
+20:10 中国的养老保险会不会破产
+24:38 年轻人要不要继续交社保
+
+
+#李忠#朱镕基#双轨制#城镇职工养老保险#机关事业单位养老保险#城乡居民养老保险#现收现付制#统筹账户#个人账户空账#视同缴费#历史债务#人口老龄化#少子化#婴儿潮退休#土地财政危机#延迟退休#提高最低缴费基数#提高最低缴费年限#个人养老金#全国社保基金#划转国有股权#通货膨胀#底线保底#自建养老小金库</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/TLt6dW8O7vA.mp3" length="34351052" type="audio/mpeg"/>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
