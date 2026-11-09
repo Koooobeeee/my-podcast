@@ -6,12 +6,43 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:03:48 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:11:03 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>淡泊名利是实在没有招</title>
+      <guid isPermaLink="false">dmvJly-1B5U</guid>
+      <pubDate>Mon, 09 Nov 2026 16:05:04 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=dmvJly-1B5U</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=dmvJly-1B5U
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/dmvJly-1B5U.mp3" length="362252" type="audio/mpeg"/>
+      <itunes:duration>00:00:17</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>故宫的灵异事件：慈宁宫 坤宁宫是凶宅？</title>
+      <guid isPermaLink="false">neoW1ya0PEU</guid>
+      <pubDate>Mon, 09 Nov 2026 08:59:59 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=neoW1ya0PEU</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=neoW1ya0PEU
+授权范围：用户自用。
+
+老梁借故宫慈宁宫、坤宁宫“凶宅”传闻，剥开封建后宫的血腥底色。
+所谓阴气、闹鬼，实为权力绞杀下的冤魂怨气——陈皇后被亲夫一脚踹死，方皇后困于火海无人施救，珍妃被硬生生塞入井中。太监制度是男权对血统的极端焦虑，而太后“菩萨转世”、坤宁宫“不祥”之说，皆是被害者无处伸冤的精神投射。
+层层宫墙隔绝的并非神鬼，而是被皇权碾碎的鲜活生命。所谓凶宅，不过是权力集中、资源垄断下人性畸变的见证。
+提醒我们：最深的恐惧不在幽冥，而在人间。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/neoW1ya0PEU.mp3" length="67620044" type="audio/mpeg"/>
+      <itunes:duration>00:52:33</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>老梁：色字头上一把刀</title>
       <guid isPermaLink="false">vdBZfeDYfgE</guid>
