@@ -6,7 +6,7 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:03:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:03:48 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -86,6 +86,21 @@
 #李忠#朱镕基#双轨制#城镇职工养老保险#机关事业单位养老保险#城乡居民养老保险#现收现付制#统筹账户#个人账户空账#视同缴费#历史债务#人口老龄化#少子化#婴儿潮退休#土地财政危机#延迟退休#提高最低缴费基数#提高最低缴费年限#个人养老金#全国社保基金#划转国有股权#通货膨胀#底线保底#自建养老小金库</description>
       <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/TLt6dW8O7vA.mp3" length="34351052" type="audio/mpeg"/>
       <itunes:duration>00:27:39</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>公开直播（在线访谈）-----王海：逃亡的打假英雄</title>
+      <guid isPermaLink="false">BibMdcw1K5o</guid>
+      <pubDate>Wed, 04 Nov 2026 11:13:15 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=BibMdcw1K5o</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=BibMdcw1K5o
+授权范围：用户自用。
+
+11月8日（本周日），晚21点（北京时间），公开直播（在线访谈）----王海：逃亡的打假英雄。欢迎朋友们收看！</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/BibMdcw1K5o.mp3" length="144793244" type="audio/mpeg"/>
+      <itunes:duration>02:08:30</itunes:duration>
       <itunes:author>政经鲁社长</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
