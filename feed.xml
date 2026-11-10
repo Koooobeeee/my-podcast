@@ -6,12 +6,25 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:08:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:52:37 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>中央军委副主席张升民，首次原声放送</title>
+      <guid isPermaLink="false">XsDWpbGHFWw</guid>
+      <pubDate>Tue, 10 Nov 2026 20:33:19 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=XsDWpbGHFWw</link>
+      <description>完整原声（未摘要、未剪辑）。来源：中規中矩 https://www.youtube.com/watch?v=XsDWpbGHFWw
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/XsDWpbGHFWw.mp3" length="613964" type="audio/mpeg"/>
+      <itunes:duration>00:00:30</itunes:duration>
+      <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>【博弈二十一大】中共代表团 “38、40、38”数量变化，暗藏权力洗牌玄机；二十大党代表审查，苗华阻击张又侠亲信，埋下军队大清洗导火索；中共台湾代表团如何选举？温家宝当年为何排名胡锦涛之前？</title>
       <guid isPermaLink="false">Jbv2IcRYrQI</guid>
@@ -22,6 +35,21 @@
       <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/Jbv2IcRYrQI.mp3" length="25878764" type="audio/mpeg"/>
       <itunes:duration>00:19:01</itunes:duration>
       <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>公开直播：解密黄仁勋桃色事件</title>
+      <guid isPermaLink="false">J_MCZ_BaNDc</guid>
+      <pubDate>Mon, 09 Nov 2026 18:54:39 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=J_MCZ_BaNDc</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=J_MCZ_BaNDc
+授权范围：用户自用。
+
+11月10日（本周二），晚上21点（北京时间），公开直播：解密黄仁勋黄色事件。欢迎朋友们收看！</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/J_MCZ_BaNDc.mp3" length="160091036" type="audio/mpeg"/>
+      <itunes:duration>02:06:00</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
