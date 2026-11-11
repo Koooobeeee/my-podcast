@@ -6,12 +6,30 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:52:37 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:53:23 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>黄仁勋困在网中央｜中美AI的鬼故事讲不下去了</title>
+      <guid isPermaLink="false">X3aq_g78tWg</guid>
+      <pubDate>Wed, 11 Nov 2026 17:00:06 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=X3aq_g78tWg</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=X3aq_g78tWg
+授权范围：用户自用。
+
+黄仁勋一封260词的道歉信，认的不是情，是罪名的价位：私德有亏只需赔声誉，通敌嫌疑要赔上英伟达。抢在国会闭门前自曝出轨，是把最贵的指控换成最便宜的那种。
+黄乐是不是间谍并不重要，一个懂GPU、懂金融、懂亚洲的人接近权力中心，本身就是情报的副产品；而禁运从不消灭需求，只把B300的利润抬到&quot;值得上绞架&quot;。
+Ai泡沫化：得州电费翻番掀翻票仓，AI短剧省下90%成本被平台吃尽，生产力狂奔、生产关系不动。中美都在往同一个坑里砸钱，应不应该踩脚刹车。
+成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/X3aq_g78tWg.mp3" length="57553100" type="audio/mpeg"/>
+      <itunes:duration>00:44:47</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>中央军委副主席张升民，首次原声放送</title>
       <guid isPermaLink="false">XsDWpbGHFWw</guid>
