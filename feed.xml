@@ -6,12 +6,25 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:55:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:00:56 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>老梁：红果短剧超过抖音</title>
+      <guid isPermaLink="false">M4uxHGFbnvU</guid>
+      <pubDate>Thu, 12 Nov 2026 14:31:17 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=M4uxHGFbnvU</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=M4uxHGFbnvU
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/M4uxHGFbnvU.mp3" length="1957004" type="audio/mpeg"/>
+      <itunes:duration>00:01:33</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>黄仁勋困在网中央｜中美AI的鬼故事讲不下去了</title>
       <guid isPermaLink="false">X3aq_g78tWg</guid>
