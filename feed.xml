@@ -6,12 +6,62 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 07:57:09 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:53:29 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>【政治局委员集体宣誓效忠】谁最忠心、最有底气？谁颜值与音色并重？谁能在二十一大更层楼？</title>
+      <guid isPermaLink="false">emQ_6jXPSz4</guid>
+      <pubDate>Sat, 14 Nov 2026 12:57:28 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=emQ_6jXPSz4</link>
+      <description>完整原声（未摘要、未剪辑）。来源：中規中矩 https://www.youtube.com/watch?v=emQ_6jXPSz4
+授权范围：用户自用。
+
+【人物出场顺序】
+
+中央政治局委员、重庆市委书记袁家军，
+中央政治局委员、上海市委书记陈吉宁，
+中央政治局委员、天津市委书记陈敏尔，
+中央书记处书记、中央纪委常务副书记、国家监察委员会主任刘金国，
+中央政治局委员、中央书记处书记、中央组织部部长石泰峰，
+中央政治局委员、中央书记处书记、中央宣传部部长李书磊，
+中央政治局委员、中央军委副主席张升民，
+中央政治局委员、中央书记处书记、中央统战部部长李干杰，
+中央政治局委员、北京市委书记尹力，
+中央政治局委员、国务院副总理何立峰，
+中央政治局委员、中央外办主任、外交部部长王毅，
+中央政治局委员、广东省委书记黄坤明，
+中央政治局委员、全国人大副委员长李鸿忠，
+国务委员、国务院秘书长吴政隆，
+全国政协副主席、中央改革办常务副主任穆虹。
+
+空军司令员王刚，
+中央对外联络部部长刘海星，
+中央宣传部常务副部长胡和平，
+青海省委书记罗东川，
+内蒙古自治区党委书记王伟中，
+广西自治区党委书记陈刚，
+江西省委书记尹弘，
+黑龙江省委书记许勤，
+浙江省委书记王浩，
+中央办公厅常务副主任孟祥锋，
+中央政策研究室主任唐方裕，
+中央纪委副书记、国家监委副主任喻红秋，
+中央组织部常务副部长黄建发，
+中央社会工作部部长吴汉圣，
+中央财经办常务副主任、中央农办主任韩文秀，
+中央党校常务副校长谢春涛，
+中央和国家机关工委常务副书记郭文奇，
+中央金融办常务副主任、金融工委常务副书记王江。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/emQ_6jXPSz4.mp3" length="29560052" type="audio/mpeg"/>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>老梁：黄仁勋 睁一只眼闭一只眼</title>
       <guid isPermaLink="false">zBVnb42OEXU</guid>
