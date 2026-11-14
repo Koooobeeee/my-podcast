@@ -6,12 +6,27 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:53:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:57:33 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>职业革命家：人性的必然</title>
+      <guid isPermaLink="false">h1-h-8apqEY</guid>
+      <pubDate>Sat, 14 Nov 2026 19:49:54 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=h1-h-8apqEY</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=h1-h-8apqEY
+授权范围：用户自用。
+
+成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/h1-h-8apqEY.mp3" length="41517452" type="audio/mpeg"/>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>【政治局委员集体宣誓效忠】谁最忠心、最有底气？谁颜值与音色并重？谁能在二十一大更层楼？</title>
       <guid isPermaLink="false">emQ_6jXPSz4</guid>
