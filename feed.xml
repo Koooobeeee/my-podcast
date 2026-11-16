@@ -6,7 +6,7 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:55:27 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:45:24 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -87,6 +87,30 @@
       <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/zBVnb42OEXU.mp3" length="3536396" type="audio/mpeg"/>
       <itunes:duration>00:02:46</itunes:duration>
       <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>会员直播：珠海华发爆雷危机</title>
+      <guid isPermaLink="false">Q_HYHp4ImJ0</guid>
+      <pubDate>Thu, 12 Nov 2026 18:47:24 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=Q_HYHp4ImJ0</link>
+      <description>完整原声（未摘要、未剪辑）。来源：政经鲁社长 https://www.youtube.com/watch?v=Q_HYHp4ImJ0
+授权范围：用户自用。
+
+以下是跟鲁社长频道相关的各种链接：
+
+1.本频道会员的福利、加入会员和支付方式的指导视频：https://youtu.be/0RYVur7ohnw
+2.加入电报群的办法：请在加入会员七天后，联系telegram上添加会员验证机器人：@ZJPLVerifyBot，并按照提示操作。如果多次联系不上，请联系小助手电报@zrzjpls
+3.加入本频道会员链接：youtube.com/@zrzjpl/join
+4.身在中国大陆没有海外支付方式的朋友，可订阅Patreon,享受跟油管会员一样的权利，具体链接：  https://www.patreon.com/zrzjpl
+5.付费提问平台：https://www.patreon.com/zrzjpl--商品栏
+6.投稿信箱（咨询勿扰）：zrzjpl@gmail.com
+7.推特（x平台）：政经鲁社长 @xzzzjpl
+8.代充小助手电报：@dcxzs</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/Q_HYHp4ImJ0.mp3" length="125365580" type="audio/mpeg"/>
+      <itunes:duration>01:37:05</itunes:duration>
+      <itunes:author>政经鲁社长</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
