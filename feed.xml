@@ -6,12 +6,27 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:00:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:01:09 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>被洗脑的日本兵｜二战后 中国为什么不要日本赔偿</title>
+      <guid isPermaLink="false">4hVidE2Qkes</guid>
+      <pubDate>Tue, 24 Nov 2026 12:15:14 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=4hVidE2Qkes</link>
+      <description>完整原声（未摘要、未剪辑）。来源：老梁 https://www.youtube.com/watch?v=4hVidE2Qkes
+授权范围：用户自用。
+
+成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/4hVidE2Qkes.mp3" length="50356580" type="audio/mpeg"/>
+      <itunes:duration>00:34:50</itunes:duration>
+      <itunes:author>老梁</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>慌啥子嘛？怨赵本山！</title>
       <guid isPermaLink="false">_KCCDYNQhSU</guid>
