@@ -6,12 +6,25 @@
     <atom:link href="https://koooobeeee.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:03:42 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:53:23 +0800</lastBuildDate>
     <itunes:author>Xuancaor</itunes:author>
     <itunes:summary>个人自用：经授权的三个 YouTube 频道新视频的完整原声音频（不摘要、不配音、不剪辑）。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>【落马前20天，陈吉宁的神秘缺席】陈吉宁留学英国的校友，成中组部副部长；“清华系”骨干大盘点；上海的五位陈书记；陈吉宁恩师与李干杰</title>
+      <guid isPermaLink="false">4xszlf8ukk8</guid>
+      <pubDate>Wed, 25 Nov 2026 21:50:20 +0800</pubDate>
+      <link>https://www.youtube.com/watch?v=4xszlf8ukk8</link>
+      <description>完整原声（未摘要、未剪辑）。来源：中規中矩 https://www.youtube.com/watch?v=4xszlf8ukk8
+授权范围：用户自用。</description>
+      <enclosure url="https://github.com/Koooobeeee/my-podcast/releases/download/audio/4xszlf8ukk8.mp3" length="30368684" type="audio/mpeg"/>
+      <itunes:duration>00:22:44</itunes:duration>
+      <itunes:author>中規中矩</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>&quot;当年明月”为什么发疯？陈吉宁和龚正的矛盾；陈吉宁和李强应勇丁薛祥的恩怨如何形成？李强为何能调动中纪委？陈吉宁有哪些失误？上海政治骗子到底跟陈吉宁有没有关系？哪些条件催化了陈吉宁的落马？</title>
       <guid isPermaLink="false">Ia1TyVLwixc</guid>
